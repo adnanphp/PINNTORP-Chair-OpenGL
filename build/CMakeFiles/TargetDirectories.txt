@@ -1,0 +1,3 @@
+/home/adnan/Music/3CCB_summer-2026_2/1B_Computer_graphicx/1E_assigbemnt/1C_assignment3/1B_solution_02_enhanced/opengl_chair_project/build/CMakeFiles/chair_app.dir
+/home/adnan/Music/3CCB_summer-2026_2/1B_Computer_graphicx/1E_assigbemnt/1C_assignment3/1B_solution_02_enhanced/opengl_chair_project/build/CMakeFiles/edit_cache.dir
+/home/adnan/Music/3CCB_summer-2026_2/1B_Computer_graphicx/1E_assigbemnt/1C_assignment3/1B_solution_02_enhanced/opengl_chair_project/build/CMakeFiles/rebuild_cache.dir

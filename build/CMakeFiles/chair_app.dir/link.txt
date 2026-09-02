@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/chair_app.dir/src/main.cpp.o CMakeFiles/chair_app.dir/src/obj_loader.cpp.o CMakeFiles/chair_app.dir/src/glad.c.o CMakeFiles/chair_app.dir/src/stb_image.cpp.o -o chair_app  /usr/lib/x86_64-linux-gnu/libGL.so /usr/lib/x86_64-linux-gnu/libglfw.so.3.3 -ldl 

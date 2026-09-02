@@ -1,0 +1,18 @@
+# Blender 4.3.2 MTL File: 'pinnTrop_chair_13_a_texture07_try_other_texture_05_final_02_join_02.blend'
+# www.blender.org
+
+newmtl pinntrop_wood
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+Pr 0.500000
+Pm 0.000000
+Ps 0.000000
+Pc 1.000000
+Pcr 0.116364
+aniso 0.000000
+anisor 0.000000
+map_Kd plank_flooring_02_diff_1k.jpg
+map_Bump -bm 1.000000 plank_flooring_02_nor_gl_1k.exr
